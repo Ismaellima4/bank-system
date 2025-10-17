@@ -1,0 +1,6 @@
+# pipeline de exemplo (CI)
+# Adapte para GitHub Actions / GitLab CI / Jenkins conforme necessário
+jobs:
+  build:
+    steps:
+      - run: echo "Build accounts-service (fake)"

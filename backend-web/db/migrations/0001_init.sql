@@ -1,0 +1,2 @@
+-- migration inicial (exemplo)
+-- (ver schema.sql)

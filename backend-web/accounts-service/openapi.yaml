@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: Accounts Service (Fake)
+  version: "0.1.0"
+paths:
+  /accounts:
+    get:
+      summary: Lista contas
+      responses:
+        '200':
+          description: OK

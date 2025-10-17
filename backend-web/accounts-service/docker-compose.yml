@@ -1,0 +1,5 @@
+version: "3.8"
+services:
+  accounts:
+    build: .
+    container_name: accounts-service-fake
