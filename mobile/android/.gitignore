@@ -1,0 +1,23 @@
+# Arquivo .gitignore para a pasta /mobile
+
+# Arquivos de build gerados
+/build/
+/.gradle/
+
+# Arquivos de configuração local (NÃO DEVEM SER COMPARTILHADOS)
+# Contém caminhos de SDK específicos da sua máquina.
+local.properties
+
+# Arquivos de log e cache
+*.log
+.cxx/
+
+# Arquivos gerados pelo Android Studio / IntelliJ
+*.iml
+.idea/
+captures/
+output/
+
+# Binários de aplicação (APKs e Bundles)
+*.apk
+*.aab
